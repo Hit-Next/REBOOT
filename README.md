@@ -1,2 +1,2 @@
-# re-boot
-RE:Boot - Church Tech and Media Meetup
+# RE:BOOT
+RE:Boot - Church Tech and Media Podcast
